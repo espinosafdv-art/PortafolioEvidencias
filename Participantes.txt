@@ -1,2 +1,7 @@
 "Felipe Espinosa Gradu¤o 1225033006" 
+<<<<<<< HEAD
+"Felipe Espinosa G 1225033006" 
+=======
+"Ximena Martinez Gardu¤o 1225033055 " 
+>>>>>>> 3ca907a5984f9f9eed65e982a819b3ac154add04
 "Felipe Espinosa G 1225033006" 
